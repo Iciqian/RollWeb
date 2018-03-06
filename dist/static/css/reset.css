@@ -1,0 +1,71 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img ,button,table,th,tr,td,thead,tbody,input{ margin:0; padding:0; }
+fieldset, img { border:none; }
+img{vertical-align: middle;}
+address, caption, cite, code, dfn, th, var {font-weight:normal;  font-style:normal; }
+ul, ol { list-style:none; }
+body {position: relative;overflow-x:hidden; color:#333; background:#fff;/* overflow-y:scroll;*/
+    background: #f6f6f6;font-family:Arial,"Microsoft YaHei"; font-size: 12px;
+}
+a {text-decoration:none;  color:#666; }
+a:visited { color:#666; }
+a:hover, a:active, a:focus {text-decoration:none;  color:#EF6868; }
+b,em,i{font-style: normal;}
+/**{box-sizing: border-box;}*/
+input[type="text"],input[type="button"]{
+	outline:none;
+}
+.cursor{
+	cursor: pointer;
+}
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+.clearfix:after {
+    display: block;
+    visibility: hidden;
+    clear: both;
+
+    height: 0;
+
+    content: ".";
+}
+.noborder{
+	border:0
+}
+/** 重置表单元素 **/
+legend { color: #000; } /* for ie6 */
+fieldset, img { border: 0; } /* img 搭车：让链接里的 img 无边框 */
+button, input, select, textarea { font-size: 100%; } /* 使得表单元素在 ie 下能继承字体大小 */
+/* 注：optgroup 无法扶正 */
+
+/** 重置表格元素 **/
+table {border-spacing: 0;  border-collapse: collapse; }
+/* 清除浮动 */
+.ks-clear:after, .clear:after {
+  display: block;
+  clear: both;
+
+  height: 0;
+
+  content: '\20';
+}
+.red{
+	color: #f10214;
+}
+@font-face {
+  font-family: 'iconfont';  /* project id 351446 */
+  src: url('http://at.alicdn.com/t/font_7o85lrg8w5crqkt9.eot');
+  src: url('http://at.alicdn.com/t/font_7o85lrg8w5crqkt9.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_7o85lrg8w5crqkt9.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_7o85lrg8w5crqkt9.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_7o85lrg8w5crqkt9.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family:"iconfont" !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

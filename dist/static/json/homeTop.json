@@ -1,0 +1,445 @@
+{
+    "module_ads": {
+        "block_id": "249",
+        "multi_block": [
+            {
+                "show_type": 2,
+                "block_type": 14,
+                "split_line": "0",
+                "margin_enabled": 0,
+                "data": [
+                    {
+                        "child": [
+                            {
+                                "pic": "//s2.juancdn.com/bao/160905/9/0/57cd1455151ad1f6428b45bf_80x80.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "http://m.juanpi.com/qiang",
+                                "words": "最后疯抢",
+                                "bd_id": "2351",
+                                "x_record": "1_1",
+                                "activityname": "click_cube_block"
+                            },
+                            {
+                                "pic": "//s2.juancdn.com/bao/160905/0/a/57cd1466151ad1cf368b4621_80x80.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "http://m.juanpi.com/jiu",
+                                "words": "9.9包邮",
+                                "bd_id": "2352",
+                                "x_record": "1_2",
+                                "activityname": "click_cube_block"
+                            },
+                            {
+                                "pic": "//s2.juancdn.com/bao/160905/4/8/57cd14a2151ad1e1348b4633_80x80.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "https://tuan.juanpi.com/pintuan/?mjuanpi_wx=1",
+                                "words": "拼团",
+                                "bd_id": "2353",
+                                "x_record": "1_3",
+                                "activityname": "click_cube_block"
+                            },
+                            {
+                                "pic": "//s2.juancdn.com/bao/160905/7/4/57cd14a7151ad1ab408b45ab_80x80.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "http://m.juanpi.com/yugao",
+                                "words": "即将上线",
+                                "bd_id": "2354",
+                                "x_record": "1_4",
+                                "activityname": "click_cube_block"
+                            }
+                        ],
+                        "countnum": 4,
+                        "shownum": 4
+                    }
+                ]
+            },
+            {
+                "show_type": 1,
+                "block_type": 4,
+                "split_line": "1",
+                "margin_enabled": 10,
+                "data": [
+                    {
+                        "width": 1,
+                        "triangle": 0,
+                        "height": 0.608,
+                        "child": [
+                            {
+                                "pic": "//s2.juancdn.com/bao/170628/1/a/595341095a3f3228f7409816_375x456.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "https://m.juanpi.com/cate/490",
+                                "layout": "col",
+                                "width": 0.5,
+                                "height": 1,
+                                "countdown": {
+                                    "enable_time": "0",
+                                    "start_time": "",
+                                    "end_time": "",
+                                    "start_text": "",
+                                    "end_text": ""
+                                },
+                                "bd_id": "7326",
+                                "x_record": "2_1",
+                                "activityname": "click_cube_block"
+                            },
+                            {
+                                "pic": "//s2.juancdn.com/bao/170616/e/3/5943546fad0a49dc0c8b45d1_375x228.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "https://m.juanpi.com/cate/318?select=1_9&mjuanpi_wx=1",
+                                "layout": "row",
+                                "width": 0.5,
+                                "height": 0.5,
+                                "countdown": {
+                                    "enable_time": "0",
+                                    "start_time": "",
+                                    "end_time": "",
+                                    "start_text": "",
+                                    "end_text": ""
+                                },
+                                "bd_id": "7327",
+                                "similar": 2,
+                                "x_record": "2_2",
+                                "activityname": "click_cube_block"
+                            },
+                            {
+                                "pic": "//s2.juancdn.com/bao/170630/8/a/595612e58150a10cb95bd328_375x228.png?iopcmd=convert&Q=88&dst=png",
+                                "url": "https://tuan.juanpi.com/topic/meirichoujiang?pt_src=ggmk_2&mjuanpi_wx=1",
+                                "layout": "row",
+                                "width": 0.5,
+                                "height": 0.5,
+                                "countdown": {
+                                    "enable_time": "0",
+                                    "start_time": "",
+                                    "end_time": "",
+                                    "start_text": "",
+                                    "end_text": ""
+                                },
+                                "bd_id": "7328",
+                                "similar": 2,
+                                "x_record": "2_3",
+                                "activityname": "click_cube_block"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "show_type": 1,
+                "block_type": 1,
+                "split_line": "0",
+                "margin_enabled": 10,
+                "data": [
+                    {
+                        "width": 1,
+                        "triangle": 0,
+                        "height": 0.128,
+                        "child": [
+                            {
+                                "pic": "//s2.juancdn.com/bao/170310/0/f/58c20db7a43d1f63427015d8_750x96.jpg?iopcmd=convert&Q=88&dst=jpg",
+                                "url": "",
+                                "layout": "col",
+                                "width": 1,
+                                "height": 1,
+                                "countdown": {
+                                    "enable_time": "0",
+                                    "start_time": "",
+                                    "end_time": "",
+                                    "start_text": "",
+                                    "end_text": ""
+                                },
+                                "bd_id": "743",
+                                "x_record": "3_1",
+                                "activityname": "click_cube_block"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "block_background_color": "",
+        "block_background_image": ""
+    },
+    "banner_ads": [
+        {
+            "pic": "//s2.juancdn.com/bao/170707/a/b/595f85bea9fcf8659f6ed427_750x290.png?iopcmd=convert&Q=80&dst=png",
+            "url": "https://m.juanpi.com/brand/2118514?shop_id=2118514",
+            "id": "13697",
+            "size": "750*290",
+            "title": "女装-tinee",
+            "x_record": "1_1",
+            "activityname": "click_ad_banner"
+        },
+        {
+            "pic": "//s2.juancdn.com/bao/170627/3/c/59521039a43d1f01ba009ea2_750x290.png?iopcmd=convert&Q=80&dst=png",
+            "url": "https://m.juanpi.com/brand/1790483?shop_id=2651563",
+            "id": "13439",
+            "size": "750*290",
+            "title": "女装-梦璐伊",
+            "x_record": "1_2",
+            "activityname": "click_ad_banner"
+        },
+        {
+            "pic": "//s2.juancdn.com/bao/170707/6/4/595f87238150a144552073d5_750x290.png?iopcmd=convert&Q=80&dst=png",
+            "url": "https://m.juanpi.com/brand/2693544?shop_id=2693544",
+            "id": "13699",
+            "size": "750*290",
+            "title": "文体-361鞋服混搭场",
+            "x_record": "1_3",
+            "activityname": "click_ad_banner"
+        },
+        {
+            "pic": "//s2.juancdn.com/bao/170707/7/6/595f87e4a9fcf8666413b2b9_750x290.png?iopcmd=convert&Q=80&dst=png",
+            "url": "https://m.juanpi.com/brand/2559570?shop_id=2559570",
+            "id": "13700",
+            "size": "750*290",
+            "title": "美妆-水密码",
+            "x_record": "1_4",
+            "activityname": "click_ad_banner"
+        },
+        {
+            "pic": "//s2.juancdn.com/bao/170707/6/0/595f894ba9fcf8660c479617_750x290.png?iopcmd=convert&Q=80&dst=png",
+            "url": "https://m.juanpi.com/brand/2618539?shop_id=2618539",
+            "id": "13701",
+            "size": "750*290",
+            "title": "拓秀",
+            "x_record": "1_5",
+            "activityname": "click_ad_banner"
+        }
+    ],
+    "topbanner": {
+        "pic": "",
+        "pic_url": "//jp.juancdn.com/jpwebapp/images/go_load_new.png",
+        "url": "//m.juanpi.com/landing/app_1437990734"
+    },
+    "popup_ads": [],
+    
+    "menu_list": [
+        {
+            "title": "今日上新",
+            "show_type": "3",
+            "act_icon": "http://goods4.juancdn.com/bao/170411/6/8/58ecae97ad0a49a6408b45df_72x72.png",
+            "bg_icon": "http://goods6.juancdn.com/bao/170411/b/3/58ecae94a43d1f5df95a8904_72x72.png",
+            "act_color": "#FF464E",
+            "act_bg_color": "",
+            "bg_color": "",
+            "top_icon": "",
+            "use_keyword": "0",
+            "wh_ratio": "0",
+            "link": "https://m.juanpi.com/?select=1_1",
+            "search_info": {
+                "open": 1,
+                "keyword": "搜索商品",
+                "text_color": "#999999",
+                "use_keyword": 1,
+                "search_logo": "",
+                "jump_url": "https://m.juanpi.com/keywords"
+            },
+            "seldefault": "1",
+            "subtab": [
+                {
+                    "title": "上新",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/?select=1_1",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "1"
+                },
+                {
+                    "title": "女装",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/312?select=1_2",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "鞋包",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/313?select=1_3",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "母婴",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/314?select=1_4",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "数码",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/1296?select=1_5",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "居家",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/1295?select=1_6",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "男士",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/316?select=1_7",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "美妆",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/317?select=1_8",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                },
+                {
+                    "title": "美食",
+                    "show_type": "2",
+                    "act_icon": "",
+                    "bg_icon": "",
+                    "act_color": "#FF464E",
+                    "act_bg_color": "",
+                    "bg_color": "",
+                    "wh_ratio": "0",
+                    "link": "https://m.juanpi.com/cate/318?select=1_9",
+                    "search_info": {
+                        "open": 0
+                    },
+                    "seldefault": "0"
+                }
+            ]
+        },
+        {
+            "title": "直发仓",
+            "show_type": "3",
+            "act_icon": "http://goods5.juancdn.com/bao/170411/9/d/58ecaea6a43d1f5e382003c6_72x72.png",
+            "bg_icon": "http://goods7.juancdn.com/bao/170411/d/3/58ecaea4a43d1f5e416f5622_72x72.png",
+            "act_color": "#FF464E",
+            "act_bg_color": "",
+            "bg_color": "",
+            "top_icon": "http://goods5.juancdn.com/bao/170310/9/9/58c27c2da43d1f3eb84a1af6_420x132.png",
+            "use_keyword": "0",
+            "wh_ratio": "0",
+            "link": "https://m.juanpi.com/cate/490?style=global&select=2_1",
+            "search_info": {
+                "open": 0
+            },
+            "seldefault": "0",
+            "subtab": []
+        },
+        {
+            "title": "全球购",
+            "show_type": "3",
+            "act_icon": "http://goods6.juancdn.com/bao/170411/b/5/58ecaeb3a43d1f5caf7c0d16_72x72.png",
+            "bg_icon": "http://goods8.juancdn.com/bao/170411/e/0/58ecaeb1a43d1f5e550ebeb4_72x72.png",
+            "act_color": "#FF464E",
+            "act_bg_color": "",
+            "bg_color": "",
+            "top_icon": "http://goods3.juancdn.com/bao/160721/5/c/579086a3151ad1d6198b456e_222x132.png",
+            "use_keyword": "0",
+            "wh_ratio": "0",
+            "link": "https://m.juanpi.com/cate/310?style=global&select=3_1",
+            "search_info": {
+                "open": 0
+            },
+            "seldefault": "0",
+            "subtab": []
+        },
+        {
+            "title": "购物车",
+            "show_type": "3",
+            "act_icon": "http://goods4.juancdn.com/bao/170411/7/3/58ecaebba43d1f5e6b2f0d02_72x72.png",
+            "bg_icon": "http://goods2.juancdn.com/bao/170411/3/a/58ecaebaa43d1f6f166e6882_72x72.png",
+            "act_color": "#FF464E",
+            "act_bg_color": "",
+            "bg_color": "",
+            "top_icon": "",
+            "use_keyword": "0",
+            "wh_ratio": "0",
+            "link": "https://m.juanpi.com/cart/?select=4_1",
+            "search_info": {
+                "open": 0
+            },
+            "seldefault": "0",
+            "subtab": []
+        },
+        {
+            "title": "我的卷皮",
+            "show_type": "3",
+            "act_icon": "http://goods1.juancdn.com/bao/170411/0/d/58ecaec6a43d1f5e7a188a96_72x72.png",
+            "bg_icon": "http://goods5.juancdn.com/bao/170411/9/7/58ecaec4a43d1f5e7c6dc860_72x72.png",
+            "act_color": "#FF464E",
+            "act_bg_color": "",
+            "bg_color": "",
+            "top_icon": "",
+            "use_keyword": "0",
+            "wh_ratio": "0",
+            "link": "https://m.juanpi.com/user/?select=5_1",
+            "search_info": {
+                "open": 0
+            },
+            "seldefault": "0",
+            "subtab": []
+        }
+    ],
+    "bottom_bg_pic": "",
+    "homeNav":["上新","女装","鞋包","母婴","数码","居家","男士","美妆","美食"]
+
+}
