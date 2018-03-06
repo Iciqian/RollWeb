@@ -8,7 +8,7 @@
 	    docEle.dataset.dpr = dpr;
 	    var metaEle = doc.createElement('meta');
 	    metaEle.name = 'viewport';
-	    metaEle.content = 'width=device-width,initial-scale=' + scale + ',maximum-scale=' + scale + ',user-scalable=no,minimal-ui';
+	    metaEle.content = 'width=device-width,initial-scale=' + scale + ',maximum-scale=' + scale + ',user-scalable=no';
 	    docEle.firstElementChild.appendChild(metaEle);
 	    var recalCulate = function() {
 	        var width = docEle.clientWidth;
